@@ -32,7 +32,7 @@ First things first - go ahead and <a href="https://pendoo.io/merchant-signup" ta
 
 ### Connect your Shopify shop :electric_plug: {id="connect-your-shop"}
 
-> <b>Prerequisite</b> :construction: <br>A Pendoo [merchant account](#create-merchant-account) is required prior to connecting your shop.
+> <b>Prerequisite</b> :construction: <br/>A Pendoo [merchant account](#create-merchant-account) is required prior to connecting your shop.
 
 Log into your brand-new account and head over to your dashboard.
 <img src="Group 54.svg" alt="initial dashboard"/>
@@ -66,7 +66,7 @@ If the connection has been made successfully, your dashboard's <b>Connected shop
 
 <img src="install_dashboard.svg" alt="install dashboard"/>
 
-This is where the magic starts - you can now install the app. Go ahead, click on <b>Install now</b>! <br/><br>
+This is where the magic starts - you can now install the app. Go ahead, click on <b>Install now</b>! <br/><br/>
 > <b>Access scopes</b> - <i><a href="https://shopify.dev/docs/api/usage/access-scopes#authenticated-access-scopes">what are Shopify access scopes?</a></i><br/><br/>
 To facilitate the creation and processing of orders and in order for Pendoo to route them appropriately to your shop and/or specific location,
 certain access scopes are required. These include scopes around <i>products</i>, <i>customers</i>, <i>orders</i>, <i>locations</i> and <i>fulfillments</i>.
