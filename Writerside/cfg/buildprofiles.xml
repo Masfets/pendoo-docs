@@ -7,7 +7,7 @@
     <build-profile instance="in">
         <variables>
 
-            <header-logo>pendoo_head_inverted.svg</header-logo>
+            <header-logo>pendoo_head_framed.svg</header-logo>
             <custom-favicons>pendoo_head.svg</custom-favicons>
             <product-web-url>https://pendoo.io</product-web-url>
             <noindex-content>true</noindex-content>

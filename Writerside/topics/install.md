@@ -24,7 +24,7 @@ Log into your brand-new account and head over to your dashboard.
 <tip>
     Currently, the default platform integration is with Shopify. This may change in the future as we will be releasing more 
     integrations.
-    <img src="platform-integrations.png" alt="platform integrations"/>
+    <img src="platform-integrations.png" alt="platform integrations" width="400"/>
 </tip>
 
 Enter your domain, the email address associated with your Shopify account and click <b>Connect</b>.
