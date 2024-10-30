@@ -5,7 +5,7 @@ The <b>real</b> new era of retail awaits, so let's get going :rocket:
 
 
 ## What's Pendoo? :bulb:
-><b>Ad valorem</b> :tophat:<br>
+><b>Ad valorem</b> :tophat:<br/>
 >In Latin? Well, <i>pendo</i> relates to the concept of <i>value</i>. And Pendoo? Think 
 >of it as <i>value added</i>, or <i>value+</i>, if you will. We have added an extra O, you see...
 
@@ -13,7 +13,7 @@ On the face of it, Pendoo is a <b>scan-and-go</b> technology. It allows retail c
 product barcodes, add them to their digital basket and ultimately check-out. All on their device.
 
 
-><b>Plug-and-Play</b> :circus_tent: <br>
+><b>Plug-and-Play</b> :circus_tent: <br/>
 >Pendoo integrates seamlessly with <a href="https://shopify.com"><b>Shopify</b></a> in the form of a <a href="https://help.shopify.com/en/manual/apps/app-types/custom-apps">custom app</a>.
 >As a true <i>plug-and-play</i> solution, integrating Pendoo takes less than 5 minutes and requires <b>no</b> additional work.
 >We are currently working on introducing stable integrations with other popular platforms such as <a href="https://lightspeedhq.com">Lightspeed</a> and <a href="https://squarespace.com">Squarespace</a>.
@@ -23,7 +23,7 @@ product barcodes, add them to their digital basket and ultimately check-out. All
 
 ## Installation :package:
 
->   <b>Prerequisite</b> :construction:<br>
+>   <b>Prerequisite</b> :construction:<br/>
     To install the app, a Shopify account with an active Shopify shop is required. You must either be the shop owner or have 
     the appropriate permissions to carry out the installation.
 
@@ -60,17 +60,17 @@ Enter your domain, the email address associated with your Shopify account and cl
 
 ### Install the Shopify app :crane:
 
-> <b>Prerequisite</b> :construction:<br>An [initial connection](#connect-your-shop) is required prior to installing the app.
+> <b>Prerequisite</b> :construction:<br/>An [initial connection](#connect-your-shop) is required prior to installing the app.
 
 If the connection has been made successfully, your dashboard's <b>Connected shop</b> card should have been updated.
 
 <img src="install_dashboard.svg" alt="install dashboard"/>
 
 This is where the magic starts - you can now install the app. Go ahead, click on <b>Install now</b>! <br/><br>
-> <b>Access scopes</b> - <i><a href="https://shopify.dev/docs/api/usage/access-scopes#authenticated-access-scopes">what are Shopify access scopes?</a></i><br><br>
+> <b>Access scopes</b> - <i><a href="https://shopify.dev/docs/api/usage/access-scopes#authenticated-access-scopes">what are Shopify access scopes?</a></i><br/><br/>
 To facilitate the creation and processing of orders and in order for Pendoo to route them appropriately to your shop and/or specific location,
 certain access scopes are required. These include scopes around <i>products</i>, <i>customers</i>, <i>orders</i>, <i>locations</i> and <i>fulfillments</i>.
-They will be explicitly requested upon installation. <br><br>If you have questions or concerns, please get in touch with us at
+They will be explicitly requested upon installation. <br/><br/>If you have questions or concerns, please get in touch with us at
 [info@pendoo.io](mailto:info@pendoo.io).
 
 
@@ -90,7 +90,7 @@ strive to be flexible regardless of geography. Beyond <b><a href="https://www.ap
 accepting payments in installments from your customers? Let them pay with <b><a href="https://www.klarna.com/">Klarna</a></b>. 
 Or maybe you have presence in Denmark and/or Finland - why not use <b><a href="https://mobilepaygroup.com/">MobilePay</a></b>? 
 
-Default payment methods include **Apple Pay** and **Google Pay**. <br><br>Are you missing a payment method you were hoping to
+Default payment methods include **Apple Pay** and **Google Pay**. <br/><br/>Are you missing a payment method you were hoping to
 offer to your customers? Let us know at [info@pendoo.io](mailto:info@pendoo.io).
 
 ### Localisation :earth_africa: {id="localisation"}
@@ -101,14 +101,14 @@ localising our service so your customers can feel comfortable using your new mob
 After all, Pendoo <tooltip term="so-cool">er så sejt</tooltip>!
 
 ### Customer record creation :woman_superhero: {id="customer-record-creation"}
-Upon a user's successful transaction, <b>a customer record is created or updated in your Shopify admin</b>. <br><br>During checkout, the user's
+Upon a user's successful transaction, <b>a customer record is created or updated in your Shopify admin</b>. <br/><br/>During checkout, the user's
 email address is used to perform a look-up. If a customer record is found, the order will be created against their existing record and will
-be appended to their order history. <br><br>
+be appended to their order history. <br/><br/>
 Otherwise, a new customer record will be created along with their first order.
 <warning>To enable this feature, a premium plan may be required.</warning>
 
 ### Location sale attribution :vertical_traffic_light: {id="location-sale-attribution"}
-Running a Shopify shop with **multiple locations**? Reporting can be a nightmare when it shouldn't be!<br><br> As an omnipresent sales-channel, 
+Running a Shopify shop with **multiple locations**? Reporting can be a nightmare when it shouldn't be!<br/><br/> As an omnipresent sales-channel, 
 we don't just blindly fulfill orders. **We route the order to the location where the sale took place**, update the fulfillment order's
 assigned location and ultimately fulfill the order.
 
@@ -118,7 +118,7 @@ Your reports have never looked neater :broom:
 ### Branding and customisation :genie: {id="branding-and-customisation"}
 Set your brand elements, starting with your logo, to determine how the Pendoo checkout appears to your customers.
 You can even use your domain as a Pendoo subdomain, making it clear to your customers that mobile self-checkout is an 
-extension of your company's shopping experience. <br>
+extension of your company's shopping experience. <br/>
 
 As we continue to develop our product, more customisation options will become available.
 <warning>To enable this feature, a premium plan may be required.</warning>
