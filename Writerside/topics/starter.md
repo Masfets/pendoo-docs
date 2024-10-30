@@ -4,7 +4,7 @@ A friendly guide to help our retail partners get started with introducing <b><a 
 The <b>real</b> new era of retail awaits, so let's get going :rocket:
 
 
-## :microscope: What's Pendoo?
+## :microscope: What's Pendoo? {id="what-is-pendoo"}
 ><b>Ad valorem</b> :tophat:<br/>
 >In Latin? Well, <i>pendo</i> relates to the concept of <i>value</i>. And Pendoo? Think 
 >of it as <i>value added</i>, or <i>value+</i>, if you will. We have added an extra O, you see...
@@ -32,7 +32,7 @@ Let's re-think retail. Let's re-build it around a key pillar: <u>human interacti
 
 ![Create new topic options](scan.svg){ width=240 }
 
-## :incoming_envelope: Feedback and support
+## :incoming_envelope: Feedback and support {id="feedback"}
 Please report any issues, usability improvements, or feature requests to our
 <a href="https://pendoo.io/contact">sales and development teams</a>.
 

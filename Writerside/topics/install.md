@@ -35,7 +35,7 @@ Enter your domain, the email address associated with your Shopify account and cl
     your permanent Shopify address, e.g. <b>my-store.myshopify.com</b>.
 </note>
 
-### :crane: Installation
+### :crane: Installation {id="installation"}
 
 > <b>Prerequisite</b> :construction:<br/>An [initial connection](#connect-your-shop) is required prior to installing the app.
 
