@@ -5,5 +5,9 @@
 <instance-profile id="in"
                  name="Pendoo"
                  start-page="starter.md">
-    <toc-element topic="starter.md"/>
+    <toc-element topic="starter.md">
+        <toc-element topic="install.md"/>
+        <toc-element topic="features.md"/>
+        <toc-element topic="extra.md"/>
+    </toc-element>
 </instance-profile>
