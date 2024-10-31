@@ -4,6 +4,7 @@ prime opportunity to recognise patterns in some of our retailers' most pressing 
 
 <note>Introducing new software tools to your team almost always comes with overhead. So much so, that it can even feel 
 counter-productive at times. Let's <b>not</b> do that this time! Let us take care of the admin while your customers shop away. 
+Below are some of the <b>key features that enable us to streamline our operations</b> without you worrying about a thing.
 </note>
 
 #### :credit_card: Payment methods {id="payment-methods"}
@@ -21,7 +22,7 @@ Regardless of how prominent the English language is, **localisation has been pro
 and, ultimately, revenue.** As Pendoo enters new markets around the world, we work closely with our retail partners on
 localising our service so your customers can feel comfortable using your new mobile self-checkout.
 
-After all, Pendoo <tooltip term="so-cool">er så sejt</tooltip>!
+After all, Pendoo <tooltip term="so-cool">er utrolig</tooltip>!
 
 #### :woman_superhero: Customer record {id="customer-record-creation"}
 Upon a user's successful transaction, <b>a customer record is created or updated in your Shopify admin</b>. <br/><br/>During checkout, the user's
