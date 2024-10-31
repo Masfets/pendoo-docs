@@ -13,12 +13,13 @@ On the face of it, Pendoo is a <b>scan-and-go</b> technology. It allows retail c
 product barcodes, add them to their digital basket and ultimately check-out. All on their device.
 
 **Pendoo is distributed as a web-application**. From a consumer-perspective, this means that we eliminate the need for a native application download, 
-like an iOS or Android application. While we appreciate a big part of the consumer audience have grown to like native applications (who doesn't, right?), in this 
+such as an iOS or Android application. While we appreciate a big part of the consumer audience have grown to like native applications (who doesn't, right?), in this 
 instance we feel that the saying <i>there's a time and a place</i> is quite fitting. 
-Our priorities are such that a download requirement would severely hinder our barrier-less setup. 
+Our priorities are such that a download requirement would hinder our barrier-less setup. 
 
 Ultimately, we aim at making it as easy as possible for retail customers to complete a checkout as quickly and painlessly as possible. 
-All the while, retail staff are reallocated onto shop-floor-critical tasks, instead of carrying out transactions. 
+All the while, retail staff are reallocated onto shop-floor-critical tasks, such as assisting and <i>actually</i> selling to customers, 
+instead of being stuck behind a screen carrying out transactions. 
 
 Let's re-think retail. Let's re-build it around a key pillar: <u>human interaction</u>. Let's promote human ingenuity and 
 **let's not confine our retail staff behind a screen - portable or not**.
