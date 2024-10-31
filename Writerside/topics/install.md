@@ -35,7 +35,7 @@ Enter your domain, the email address associated with your Shopify account and cl
     your permanent Shopify address, e.g. <b>my-store.myshopify.com</b>.
 </note>
 
-### :crane: Installation {id="installation"}
+### :crane: App installation {id="installation"}
 
 > <b>Prerequisite</b> :construction:<br/>An [initial connection](#connect-your-shop) is required prior to installing the app.
 
@@ -50,3 +50,13 @@ certain access scopes are required. These include scopes around <i>products</i>,
 They will be explicitly requested upon installation. <br/><br/>If you have questions or concerns, please get in touch with us at
 [info@pendoo.io](mailto:info@pendoo.io).
 
+### :space_invader: QR Code placement {id="qr-code"}
+Your customers will scan the QR code to launch the Pendoo web-app. 
+You will find your store's QR code(s) in your Pendoo account dashboard.
+
+In your store, **the strategic placement of QR codes is key**. The goal is for your customers to have easy access to your checkout points, which is what your QR codes really are!
+Depending on your store's layout, this could mean a single larger QR code at the entrance. Or maybe at checkout. 
+For bigger stores, we recommend the placement of smaller QR codes per product section. This way, 
+your customers can easily launch the app and check out without having to carry their items from section to section. 
+
+After all, we are trying to make things easier, not complicate them :relieved:
