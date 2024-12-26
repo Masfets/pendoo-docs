@@ -31,7 +31,7 @@ Let's re-think retail. Let's re-build it around a key pillar: <u>human interacti
 {style="note"}
 
 
-![Create new topic options](scan.svg){ width=240 }
+<video src="https://youtu.be/JoF3rrLTh5c?feature=shared"/>
 
 ## :incoming_envelope: Feedback and support {id="feedback"}
 Please report any issues, usability improvements, or feature requests to our
