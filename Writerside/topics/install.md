@@ -12,7 +12,7 @@ First things first - go ahead and <a href="https://pendoo.io/merchant-signup" ta
 > <b>Prerequisite</b> :construction: <br/>A Pendoo [merchant account](#create-merchant-account) is required prior to connecting your shop.
 
 Log into your brand-new account and head over to your dashboard.
-<img src="Group 54.svg" alt="initial dashboard"/>
+<img src="Group 58.png" alt="initial dashboard"/>
 
 <note>
     The initial connection allows us to prepare the stage by creating the necessary foundation upon
@@ -20,14 +20,7 @@ Log into your brand-new account and head over to your dashboard.
     between you, the retailer, and us, the sales channel. This channel is created on a per-retailer basis to ensure data security and integrity.
 </note>
 
-
-<tip>
-    Currently, the default platform integration is with Shopify. This may change in the future as we will be releasing more 
-    integrations.
-    <img src="platform-integrations.png" alt="platform integrations" width="400"/>
-</tip>
-
-Enter your domain, the email address associated with your Shopify account and click <b>Connect</b>.
+Enter your domain and click <b>Connect</b>.
 <u>Establishing a connection can take up to 3 minutes to complete</u>.
 
 <note>
@@ -41,9 +34,9 @@ Enter your domain, the email address associated with your Shopify account and cl
 
 If the connection has been made successfully, your dashboard's <b>Connected shop</b> card should have been updated.
 
-<img src="install_dashboard.svg" alt="install dashboard"/>
+<img src="Group 60.png" alt="install dashboard"/>
 
-This is where the magic starts - you can now install the app. Go ahead, click on <b>Install now</b>! <br/><br/>
+This is where the magic starts - you can now install the app. Go ahead, click on <b>Install app</b>! <br/><br/>
 > <b>Access scopes</b> - <i><a href="https://shopify.dev/docs/api/usage/access-scopes#authenticated-access-scopes">what are Shopify access scopes?</a></i><br/><br/>
 To facilitate the creation and processing of orders and in order for Pendoo to route them appropriately to your shop and/or specific location,
 certain access scopes are required. These include scopes around <i>products</i>, <i>customers</i>, <i>orders</i>, <i>locations</i> and <i>fulfillments</i>.

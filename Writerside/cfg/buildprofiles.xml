@@ -6,11 +6,12 @@
 
     <build-profile instance="in">
         <variables>
-
-            <header-logo>pendoo_head_framed.svg</header-logo>
-            <custom-favicons>pendoo_head.svg</custom-favicons>
+            <primary-color>#a8e6cf</primary-color>
+            <header-logo>pendoo_emblem.svg</header-logo>
+            <custom-favicons>pendoo_emblem.svg</custom-favicons>
             <product-web-url>https://pendoo.io</product-web-url>
             <noindex-content>true</noindex-content>
+            <custom-css>custom.css</custom-css>
         </variables>
     </build-profile>
 
