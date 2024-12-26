@@ -9,6 +9,7 @@
             <primary-color>#a8e6cf</primary-color>
             <header-logo>pendoo_emblem.svg</header-logo>
             <custom-favicons>pendoo_emblem.svg</custom-favicons>
+            <custom-video-cover>video_thumbnail.png</custom-video-cover>
             <product-web-url>https://pendoo.io</product-web-url>
             <noindex-content>true</noindex-content>
             <custom-css>custom.css</custom-css>
