@@ -12,7 +12,7 @@ First things first - go ahead and <a href="https://pendoo.io/merchant-signup" ta
 > <b>Prerequisite</b> :construction: <br/>A Pendoo [merchant account](#create-merchant-account) is required prior to connecting your shop.
 
 Log into your brand-new account and head over to your dashboard.
-<img src="Group 58.png" alt="initial dashboard"/>
+<img src="CONNECT.png" alt="initial dashboard"/>
 
 <note>
     The initial connection allows us to prepare the stage by creating the necessary foundation upon
@@ -34,7 +34,7 @@ Enter your domain and click <b>Connect</b>.
 
 If the connection has been made successfully, your dashboard's <b>Connected shop</b> card should have been updated.
 
-<img src="Group 60.png" alt="install dashboard"/>
+<img src="INSTALL.png" alt="install dashboard"/>
 
 This is where the magic starts - you can now install the app. Go ahead, click on <b>Install app</b>! <br/><br/>
 > <b>Access scopes</b> - <i><a href="https://shopify.dev/docs/api/usage/access-scopes#authenticated-access-scopes">what are Shopify access scopes?</a></i><br/><br/>
