@@ -29,7 +29,7 @@ Upon a user's successful transaction, <b>a customer record is created or updated
 email address is used to perform a look-up. If a customer record is found, the order will be created against their existing record and will
 be appended to their order history. <br/><br/>
 Otherwise, a new customer record will be created along with their first order.
-<warning>To enable this feature, a premium plan may be required.</warning>
+<warning>To enable this feature, a Pro plan may be required.</warning>
 
 #### :round_pushpin: Location-aware sales {id="location-sale-attribution"}
 Running a Shopify shop with **multiple locations**? Reporting can be a nightmare when it shouldn't be!<br/><br/> As an omnipresent sales-channel,
@@ -37,7 +37,7 @@ we don't just blindly fulfill orders. **We route the order to the location where
 assigned location and ultimately fulfill the order.
 
 Your reports have never looked neater :broom:
-<warning>To enable this feature, a premium plan may be required.</warning>
+<warning>To enable this feature, a Pro plan may be required.</warning>
 
 #### :performing_arts: Branding {id="branding-and-customisation"}
 Set your brand elements, starting with your logo, to determine how the Pendoo checkout appears to your customers.
@@ -45,10 +45,10 @@ You can even use your domain as a Pendoo subdomain, making it clear to your cust
 extension of your company's shopping experience. <br/>
 
 As we continue to develop our product, more customisation options will become available.
-<warning>To enable this feature, a premium plan may be required.</warning>
+<warning>To enable this feature, a Pro plan may be required.</warning>
 
 #### :lock: Anti-theft {id="anti-theft"}
 Pendoo collaborates with leading anti-theft solutions providers, such as <a href="https://nedap.com/">Nedap</a>,
 to enhance our security offerings and ensure robust protection for our retail partners. Are you using RFID? Or magnetic tags?
 We are interested to hear your approach and are ready to devise a secure plan for you. Get in touch at [info@pendoo.io](mailto:info@pendoo.io).
-<warning>To enable this feature, a premium plan may be required.</warning>
+<warning>To enable this feature, a Pro plan may be required.</warning>
