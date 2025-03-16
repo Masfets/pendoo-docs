@@ -61,6 +61,10 @@ An order tag? A referral field? Or maybe even a discount code?
 What's more, you can tie your checkout fields to specific locations. Are you running an offer at a newly opened location? No problem, we got you.
 <warning>To enable this feature, a Pro plan may be required.</warning>
 
+#### :vertical_traffic_light: Product enablement {id="product-enablement"}
+Product enablement empowers brands to seamlessly manage their offerings by giving them <b>precise control over what products customers can purchase through Pendoo's mobile checkout</b>. Brands can curate their catalogs, tailoring availability to align with inventory, promotions, or strategic goals. Furthermore, product enablement provides real-time flexibility, enabling you to adapt quickly to market demands or shifts in consumer behavior. Ultimately, it’s a powerful tool that strengthens brand authority while driving sales and customer satisfaction.
+<warning>To enable this feature, a Pro plan may be required.</warning>
+
 #### :lock: Anti-theft {id="anti-theft"}
 Pendoo collaborates with leading anti-theft solutions providers, such as <a href="https://nedap.com/">Nedap</a>,
 to enhance our security offerings and ensure robust protection for our retail partners. Are you using RFID? Or magnetic tags?
