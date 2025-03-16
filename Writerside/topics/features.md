@@ -50,7 +50,7 @@ As we continue to develop our product, more customisation options will become av
 #### :star: Customer reviews {id="customer-reviews"}
 Collect customer reviews on checkout. Gather invaluable feedback with our non-intrusive review form and get real insights as to how your customers feel about interacting with your brand. Decide whether you would like Pendoo to get in touch with customers whose reviews are anything less than excellent. Or engage with them as a brand, directly.
 
-A disappointed customer (god forbid) presents you with an opportunity to win them over. We give you all the tools to do just that - turn disappointement into brand loyalty.
+A disappointed customer (god forbid) presents you with an opportunity to win them over. We give you all the tools to do just that - <b>turn disappointment into brand loyalty</b>.
 Publish fair reviews on your website and keep building on that trust between your brand and your customers. 
 <warning>To enable this feature, a Pro plan may be required.</warning>
 
