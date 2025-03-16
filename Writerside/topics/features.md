@@ -59,6 +59,7 @@ Fuel your checkout how you see fit. Control the fields you would like to gather 
 An order tag? A referral field? Or maybe even a discount code?
 
 What's more, you can tie your checkout fields to specific locations. Are you running an offer at a newly opened location? No problem, we got you.
+<warning>To enable this feature, a Pro plan may be required.</warning>
 
 #### :lock: Anti-theft {id="anti-theft"}
 Pendoo collaborates with leading anti-theft solutions providers, such as <a href="https://nedap.com/">Nedap</a>,
