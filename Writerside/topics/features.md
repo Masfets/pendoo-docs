@@ -54,6 +54,12 @@ A disappointed customer (god forbid) presents you with an opportunity to win the
 Publish fair reviews on your website and keep building on that trust between your brand and your customers. 
 <warning>To enable this feature, a Pro plan may be required.</warning>
 
+#### :fuelpump: Checkout fields {id="checkout-fields"}
+Fuel your checkout how you see fit. Control the fields you would like to gather data with and craft your on-brand custom checkout.
+An order tag? A referral field? Or maybe even a discount code?
+
+What's more, you can tie your checkout fields to specific locations. Are you running an offer at a newly opened location? No problem, we got you.
+
 #### :lock: Anti-theft {id="anti-theft"}
 Pendoo collaborates with leading anti-theft solutions providers, such as <a href="https://nedap.com/">Nedap</a>,
 to enhance our security offerings and ensure robust protection for our retail partners. Are you using RFID? Or magnetic tags?
