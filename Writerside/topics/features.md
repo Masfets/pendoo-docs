@@ -47,6 +47,13 @@ extension of your company's shopping experience. <br/>
 As we continue to develop our product, more customisation options will become available.
 <warning>To enable this feature, a Pro plan may be required.</warning>
 
+#### :star: Customer reviews {id="customer-reviews"}
+Collect customer reviews on checkout. Gather invaluable feedback with our non-intrusive review form and get real insights as to how your customers feel about interacting with your brand. Decide whether you would like Pendoo to get in touch with customers whose reviews are anything less than excellent. Or engage with them as a brand, directly.
+
+A disappointed customer (god forbid) presents you with an opportunity to win them over. We give you all the tools to do just that - turn disappointement into brand loyalty.
+Publish fair reviews on your website and keep building on that trust between your brand and your customers. 
+<warning>To enable this feature, a Pro plan may be required.</warning>
+
 #### :lock: Anti-theft {id="anti-theft"}
 Pendoo collaborates with leading anti-theft solutions providers, such as <a href="https://nedap.com/">Nedap</a>,
 to enhance our security offerings and ensure robust protection for our retail partners. Are you using RFID? Or magnetic tags?
